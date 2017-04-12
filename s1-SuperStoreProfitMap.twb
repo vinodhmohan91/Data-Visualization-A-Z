@@ -11,7 +11,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='SuperStoreUS_2015' name='excel-direct.16n8rf210s6frv13kji0406bhmz0'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:\Users\Vinodh Mohan\Documents\MSBAPM\Tableau 10 Udemy\SuperStoreUS_2015.xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:\Users\Vinodh Mohan\Documents\MSBAPM\Tableau 10 Udemy\Dataset\SuperStoreUS_2015.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <relation connection='excel-direct.16n8rf210s6frv13kji0406bhmz0' name='Orders' table='[Orders$]' type='table'>
@@ -438,7 +438,7 @@
       <column datatype='integer' default-format='*00000' name='[Postal Code]' role='dimension' semantic-role='[ZipCode].[Name]' type='ordinal' />
       <column datatype='integer' name='[Row ID]' role='dimension' type='ordinal' />
       <column datatype='string' name='[State or Province]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
-      <layout dim-ordering='alphabetic' dim-percentage='0.607143' measure-ordering='alphabetic' measure-percentage='0.392857' show-structure='true' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.608516' measure-ordering='alphabetic' measure-percentage='0.391484' show-structure='true' />
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
       </semantic-values>

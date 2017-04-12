@@ -11,7 +11,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='Airline-Comparison' name='excel-direct.0zfdqds1tdvle41grggt31pgtmdq'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:\Users\Vinodh Mohan\Documents\MSBAPM\Tableau 10 Udemy\Airline-Comparison.xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:\Users\Vinodh Mohan\Documents\MSBAPM\Tableau 10 Udemy\Dataset\Airline-Comparison.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <relation connection='excel-direct.0zfdqds1tdvle41grggt31pgtmdq' name='Airline1' table='[Airline1$]' type='table'>
@@ -94,7 +94,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='Airline-Comparison' name='excel-direct.0t0f1fv1282pp11acorhj1riri4n'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:\Users\Vinodh Mohan\Documents\MSBAPM\Tableau 10 Udemy\Airline-Comparison.xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:\Users\Vinodh Mohan\Documents\MSBAPM\Tableau 10 Udemy\Dataset\Airline-Comparison.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <relation connection='excel-direct.0t0f1fv1282pp11acorhj1riri4n' name='Airline2' table='[Airline2$]' type='table'>

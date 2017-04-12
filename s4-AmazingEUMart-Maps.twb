@@ -11,7 +11,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='AmazingMartEU2' name='excel-direct.01aj18k19fi8ul1geoy811kyq90y'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:\Users\Vinodh Mohan\Documents\MSBAPM\Tableau 10 Udemy\AmazingMartEU2.xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:\Users\Vinodh Mohan\Documents\MSBAPM\Tableau 10 Udemy\Dataset\AmazingMartEU2.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <relation join='inner' type='join'>
